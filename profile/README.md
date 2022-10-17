@@ -2,7 +2,7 @@
 
 A Full Stack Development Course
 * Learn at your own pace
-* Use the same tools professionals use
+* Learn with the same tools pros use
 * Automated assignments with autograding
 * Have fun
 
