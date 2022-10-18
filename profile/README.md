@@ -67,3 +67,11 @@ node --version
 npm --version
 // 8.19.2
 ```
+
+## If you run into an eaccess error, do this
+```
+mkdir ~/.npm-global
+npm config set prefix '~/.npm-global'
+NPM_CONFIG_PREFIX=~/.npm-global
+
+```
