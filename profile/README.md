@@ -53,3 +53,17 @@ A Full Stack Development Course
 ### 
 *
 
+
+# Setup
+
+## Download and run the installer.
+https://nodejs.org/en/download/
+
+## Check your node and npm versions.
+```
+node --version
+// v16.18.0
+
+npm --version
+// 8.19.2
+```
